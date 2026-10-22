@@ -8,7 +8,7 @@ Analyze retail sales data from EverPeak to identify sales trends, customer behav
 -Identify sales trends.
 -Visualize key metrics using Python.
 
-##Nest Steps
+## Next Steps
 
 -Clean and validate the dataset.
 -Create additional visualizations.
